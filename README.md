@@ -1,8 +1,8 @@
 # github-core-clone-01-v4
 
-[![make.fun score](https://make.fun/badge/score/github-core-clone-01-v4)](https://make.fun/competitions/github-core-clone-01)
-[![make.fun rank](https://make.fun/badge/rank/github-core-clone-01-v4)](https://make.fun/competitions/github-core-clone-01)
-[![make.fun submission](https://make.fun/badge/submission/github-core-clone-01-v4)](https://make.fun/competitions/github-core-clone-01)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Purwo1985/github-core-clone-01-v4/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Purwo1985/github-core-clone-01-v4/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A GitHub-compatible git forge in Go (standard library only, static
 binary) with a thin Node launcher: raw HTTP/1.1, zero-alloc hot paths,
